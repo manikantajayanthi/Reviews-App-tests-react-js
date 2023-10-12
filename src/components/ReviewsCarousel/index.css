@@ -1,0 +1,44 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 40px;
+  margin-bottom: 30px;
+}
+
+.profile-image {
+  width: 10%;
+}
+
+.name-button {
+  display: flex;
+  flex-direction: row;
+}
+
+.button {
+  background-color: transparent;
+  border-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.username {
+  margin-left: 100px;
+  margin-right: 100px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.company-name {
+  color: #171f46;
+}
+
+.description-container {
+  padding-left: 550px;
+  padding-right: 550px;
+}
+.description {
+  color: #171f46;
+  text-align: center;
+}
